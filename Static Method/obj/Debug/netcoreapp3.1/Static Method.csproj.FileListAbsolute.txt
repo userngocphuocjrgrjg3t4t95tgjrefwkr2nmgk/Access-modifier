@@ -1,0 +1,13 @@
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\bin\Debug\netcoreapp3.1\Static Method.exe
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\bin\Debug\netcoreapp3.1\Static Method.deps.json
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\bin\Debug\netcoreapp3.1\Static Method.runtimeconfig.json
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\bin\Debug\netcoreapp3.1\Static Method.runtimeconfig.dev.json
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\bin\Debug\netcoreapp3.1\Static Method.dll
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\bin\Debug\netcoreapp3.1\Static Method.pdb
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.csprojAssemblyReference.cache
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.AssemblyInfoInputs.cache
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.AssemblyInfo.cs
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.dll
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.pdb
+C:\ngocphuoc\Access modifier, static method, static property\Static Method\obj\Debug\netcoreapp3.1\Static Method.genruntimeconfig.cache
